@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tahmid</h1>
 
-<h3 align="center">Love to know about backend technologies. <img style="width:25px; height:auto;" src="imgs/title.gif"</h3>
+<h3 align="center">Love to know about backend technologies. 🤗</h3>
 
 <hr>
 
