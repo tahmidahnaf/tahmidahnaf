@@ -1,53 +1,30 @@
 ![Tahmid Ahnaf](imgs/cover.svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tahmid</h1>
+<h3 align="center">A backend tech lover 🤗</h3>
 
-<h3 align="center">Love to know about backend technologies. 🤗</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahoo395&label=Profile%20views&color=0e75b6&style=flat" alt="tahoo395" /> </p>
 
-<hr>
+- 🔭 I’m currently working on **quiz-taker project**
 
-## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **Node js and Nuxt js**
 
-- 🌱 I’m currently learning **Node and other backend technologies**
+- 👯 I’m looking to collaborate on **some open source projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨‍💻 All of my projects are available at [here](https://github.com/tahmidahnaf)
 
-- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/tahmidahnaf)**
+- 💬 Ask me about **vue,scss**
 
 - 📫 How to reach me **tahmidahnafxtra@gmail.com**
 
-- ⚡ Fun fact **I was a web designer but fall in love with backend technologies 💖**
+- ⚡ Fun fact **I can center a div :3**
 
-<hr>
-## 🚀 Languages and Tools:
 
-<p align="center"> 
-    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pug.png"/> </a> 
-    <a href="https://sass-lang.com/documentation" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://vuejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahoo395&show_icons=true&locale=en&layout=compact" alt="tahoo395" /></p>
 
-<p align="center">
-<h2 align="center">My Github stats</h2>
-    <a  href="https://github.com/tahmidahnaf/github-readme-streak-stats">
-        <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tahmid Ahnaf's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidahnaf&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahoo395&show_icons=true&locale=en" alt="tahoo395" /></p>
 
-<hr>
-<h2 align="center">My Github Activity</h2>
-<a href="https://github.com/tahmidahnaf/github-readme-activity-graph"><img align="center" alt="Tahmid Ahnaf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tahmidahnaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<hr>
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tahmidahnaf">
-</a>
-<a href="https://github.com/tahmidahnaf?tab=followers"><img src="https://img.shields.io/github/followers/tahmidahnaf?label=Followers&style=social" alt="GitHub Badge"></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahoo395&" alt="tahoo395" /></p>
